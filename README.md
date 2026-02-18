@@ -1,0 +1,2 @@
+# AetherAI
+AI for EARTH
